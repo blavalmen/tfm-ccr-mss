@@ -1,1 +1,10 @@
+.Rhistory
+.RData
+.Rproj.user/
 
+data_raw/
+data_processed/
+figures/
+results/
+
+*.rds
